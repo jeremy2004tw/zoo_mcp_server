@@ -1,0 +1,8 @@
+[project]
+name = "zoo-mcp-server"
+version = "0.1.0"
+description = "zoo mcp server"
+requires-python = ">=3.13"
+dependencies = [
+    "fastmcp==2.12.4",
+]
